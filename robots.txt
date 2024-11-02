@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elotaavo.github.io/IQZ/sitemap_index.txt
+Sitemap: https://elotaavo.github.io/LrQ/sitemap_index.txt
+Sitemap: https://elotaavo.github.io/aeH/sitemap_index.txt
+Sitemap: https://elotaavo.github.io/rUL/sitemap_index.txt
